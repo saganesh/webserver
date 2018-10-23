@@ -1,6 +1,5 @@
 FROM ubuntu
 
-
 MAINTAINER saganesh
 
 RUN apt-get update && apt-get install apache2 curl -y 
